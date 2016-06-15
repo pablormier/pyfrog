@@ -68,7 +68,7 @@ modules.xml
 
 
 ### Java ###
-.target
+target
 *.class
 
 # Mobile Tools for Java (J2ME)
